@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallRob.SecuretUtil", "SmallRob.SecuretUtil\SmallRob.SecuretUtil.csproj", "{5F82BB03-13B5-40F3-91BA-70FFC91D350A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallRob.SecuretTool", "SmallRob.SecuretTool\SmallRob.SecuretTool.csproj", "{CDC42A41-3061-4C12-BF5D-289ED2B06A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F82BB03-13B5-40F3-91BA-70FFC91D350A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F82BB03-13B5-40F3-91BA-70FFC91D350A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F82BB03-13B5-40F3-91BA-70FFC91D350A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F82BB03-13B5-40F3-91BA-70FFC91D350A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC42A41-3061-4C12-BF5D-289ED2B06A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC42A41-3061-4C12-BF5D-289ED2B06A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC42A41-3061-4C12-BF5D-289ED2B06A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC42A41-3061-4C12-BF5D-289ED2B06A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8E9360A-8D85-4479-ABCF-3B388B02C092}
+	EndGlobalSection
+EndGlobal
